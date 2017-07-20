@@ -1,10 +1,10 @@
-Package: singleCellRNASeqMouseShalekBMDC
+Package: singleCellRNASeqMouseKumarESC
 Maintainer: Chiaowen Joyce Hsiao <joyce.hsiao1@gmail.com>
 Author: Chiaowen Joyce Hsiao <joyce.hsiao1@gmail.com>
 Version: 0.99.0
 License: Artistic-2.0
-Title: single-cell RNA-seq data of mouse bon-marrow-derived dendritic cells (BMDCs)
-Description: Shalek, A. K., Satija, R., Adiconis, X., Gertner, R. S., Gaublomme, J. T., Raychowdhury, R., et al. (2013). Single-cell transcriptomics reveals bimodality in expression and splicing in immune cells. Nature, 498(7453), 236–240. http://doi.org/10.1038/nature12172
+Title: single-cell RNA-seq data of mouse ESC
+Description: Kumar, R. M., Cahan, P., Shalek, A. K., Satija, R., Jay DaleyKeyser, A., Li, H., et al. (2014). Deconstructing transcriptional heterogeneity in pluripotent stem cells. Nature, 516(7529), 56–61. http://doi.org/10.1038/nature13920
 LazyData: yes
 Depends:
     R (>= 2.10), Biobase (>= 2.26.0)
